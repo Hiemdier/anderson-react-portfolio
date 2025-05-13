@@ -11,7 +11,7 @@ function Work({ title, rLink, hLink, className }) {
                     <img
                         className="rounded-circle"
                         style={{ width: '50px', height: '50px', objectFit: 'cover' }}
-                        src="./public/github.png"
+                        src="./github.png"
                         alt="GitHub"
                     />
                 </Button>
