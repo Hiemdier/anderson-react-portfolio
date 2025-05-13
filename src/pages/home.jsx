@@ -5,7 +5,7 @@ export default function Home() {
         <div className="col-md-8 mx-auto text-center">
           <h1>About Me</h1>
           <div className="about-image">
-            <img src="../public/anderson_shane.png" alt="Profile"
+            <img src="./anderson_shane.png" alt="Profile"
             style={{
             width: '300px',
             height: '300px',

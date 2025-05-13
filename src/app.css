@@ -23,7 +23,7 @@ html, body {
 }
 
 .navbar {
-  background-image: url("../public/background_image.png");
+  background-image: url("../src/assets/images/background_image.png");
   background-position: center;
   background-size: cover;
   height: 180px;
@@ -211,27 +211,27 @@ ul li {
 }
 
 .card-1 {
-  background-image: url("../public/kanban.png");
+  background-image: url("../src/assets/images/kanban.png");
 }
 
 .card-2 {
-  background-image: url("../public/Screenshot2.png");
+  background-image: url("../src/assets/images/Screenshot2.png");
 }
 
 .card-3 {
-  background-image: url("../public/employee-tracker.png");
+  background-image: url("../src/assets/images/employee-tracker.png");
 }
 
 .card-4 {
-  background-image: url("../public/weather-dashboard.png");
+  background-image: url("../src/assets/images/weather-dashboard.png");
 }
 
 .card-5 {
-  background-image: url("../public/litechat.png");
+  background-image: url("../src/assets/images/litechat.png");
 }
 
 .card-6 {
-  background-image: url("../public/candidate-search.png");
+  background-image: url("../src/assets/images/candidate-search.png");
 }
 
 @media (max-width: 1024px) {

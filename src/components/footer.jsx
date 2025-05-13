@@ -13,7 +13,7 @@ export default function Footer() {
                 borderRadius: '50%',
                 objectFit: 'cover'
                 }} 
-                src=".\github-image.jpg" alt="GitHub" className="footer-icon" />
+                src=".\github.png" alt="GitHub" className="footer-icon" />
             </a>
             <a href="https://www.linkedin.com/in/shanedanderson7/" target="_blank" rel="noopener noreferrer">
             <img 
